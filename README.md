@@ -1,7 +1,8 @@
 # 基本情報
 |key|val|
 |-|-|
-|名前|純也|
+|Name|純也|
+|Job|freelance web/software developer|
 |Twitter|[@jun_moka](https://twitter.com/jun_moka/)|
 |Qiita|[@jun_moka](https://qiita.com/jun_moka/)|
 |Github|[junmoka](https://github.com/junmoka)|
