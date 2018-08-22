@@ -1,1 +1,60 @@
+# programming language
+|Skill|作ったもの/やったこと|備考|
+|-|-|-|
+|C|コンソールゲーム|
+|C++17|コンソールゲーム/2Dゲーム/3Dゲーム/スマホゲーム|
+|C#|ゲーム(Unity)|
+|Java|Androidアプリ/スマホゲーム サーバーサイド/マスターデータ管理ツール||
+|Go|ゲーム制作ツール/スクレイピングツール|
+|Groovy|Jenkins Pipeline|
+|VBA|Excelゲーム/マスターデータツール|
+|Ruby|ゲーム制作ツール/webサービス|
+|アセンブリ|リバースエンジニアリング|
+|Objective-C|iPhoneゲーム開発|最低限の知識|
+|Shell|いろいろ|
+|Lua|ゲームスクリプト|
+|Squirrel|ゲームスクリプト|
+|JavaScript|webサービス|最低限の知識|
+|Node.js|Bot開発など|
+
+# framework/library
+|Skill|作ったもの/やったこと|備考|
+|-|-|-|
+|Unity2018|ゲーム/Editor拡張|特にリソース管理やAssetBundleに詳しい|
+|cocos2d-x|ゲーム開発||
+|Ruby on Rails|Webサービス|
+|iBATIS|スマホゲームサーバーサイド|
+|Xwork|スマホゲームサーバーサイド|
+
+# infra/cloud/tool
+|Skill|備考|
+|-|-|
+|svn|
+|git|svnからgitへの移行、git lfsの活用など|
+|Trello|
+|Bugsnag|
+|Codeship|
+|webpack|
+|Lint|
+|AWS Lambda||
+|ESXi6.5|自宅サーバーで運用|
+|Alpine Linux|Docker コンテナ用|
+|Docker|開発環境管理/自宅サーバーで利用|
+|Rancher2.0|コンテナ管理|
+|Kubernetes|Rancher2.0上メイン|
+|WordPress|ブログ運営/自宅サーバーのKubernetes上に構築|
+|MySQL|主にゲーム|
+|PostgreSQL|主にWebサービス|
+|Jenkins|ビルドパイプライン構築/コンテンツパイプライン構築|
+|OPTPiX MacroActor|ゲーム用画像最適化|
+
+# etc
+|Skill|備考|
+|-|-|
+|Haskell|勉強中/関数型の設計手法取得|
+|React|勉強中|
+|Rust|興味あり/C++の置換えに|
+|Elixir|興味あり/高速なWebアプリ開発に|
+|Kotlin|興味あり|
+|Swift|興味あり|
 
