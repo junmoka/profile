@@ -5,6 +5,7 @@
 |Job|freelance web/software developer|
 |Twitter|[@jun_moka](https://twitter.com/jun_moka/)|
 |Qiita|[@jun_moka](https://qiita.com/jun_moka/)|
+|MENTA|[純也](https://menta.work/user/2101)|
 |Github|[junmoka](https://github.com/junmoka)|
 |Blog|[アルコール駆動開発](https://www.spiriquor.com/)|
 
@@ -13,6 +14,9 @@
 
 # スキルシート
 [skillsheat](https://github.com/junmoka/profile/blob/master/skillsheat.md)
+
+# 活動
+- CoderDojo メンター
 
 # 趣味
 - ゲーム(ボードゲームも含む)
