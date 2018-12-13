@@ -5,7 +5,8 @@
 |C++17|コンソールゲーム/2Dゲーム/3Dゲーム/スマホゲーム|
 |C#|ゲーム(Unity)|
 |Java|Androidアプリ/スマホゲーム サーバーサイド/マスターデータ管理ツール||
-|Go|ゲーム制作ツール/スクレイピングツール|
+|Kotlin|Androidアプリ(交通費精算アプリ)|
+|Go|ゲーム制作ツール/スクレイピングツール
 |Groovy|Jenkins Pipeline|
 |VBA|Excelゲーム/マスターデータツール|
 |Ruby|ゲーム制作ツール/webサービス|
@@ -16,6 +17,7 @@
 |Squirrel|ゲームスクリプト|
 |JavaScript|webサービス|最低限の知識|
 |Node.js|Bot開発など|
+|React/Redux|webアプリ|
 
 # framework/library
 |Skill|作ったもの/やったこと|備考|
@@ -36,7 +38,7 @@
 |Codeship|
 |webpack|
 |Lint|
-|AWS Lambda||
+|AWS Lambda|
 |ESXi6.5|自宅サーバーで運用|
 |Alpine Linux|Docker コンテナ用|
 |Docker|開発環境管理/自宅サーバーで利用|
@@ -52,9 +54,6 @@
 |Skill|備考|
 |-|-|
 |Haskell|勉強中/関数型の設計手法取得|
-|React|勉強中|
 |Rust|興味あり/C++の置換えに|
 |Elixir|興味あり/高速なWebアプリ開発に|
-|Kotlin|興味あり|
 |Swift|興味あり|
-
