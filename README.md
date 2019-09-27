@@ -16,6 +16,9 @@
 # スキルシート
 [skillsheat](https://github.com/junmoka/profile/blob/master/skillsheat.md)
 
+# CliftonStrengths
+[CliftonStrengths](https://github.com/junmoka/profile/blob/master/CliftonStrengths.md)
+
 # 活動
 - CoderDojo メンター
 
