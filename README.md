@@ -2,7 +2,7 @@
 |key|val|
 |-|-|
 |Name|純也|
-|Job|freelance web/software developer|
+|Job|freelance web/software developer and Security Engineer|
 |Twitter|[@jun_moka](https://twitter.com/jun_moka/)|
 |Qiita|[@jun_moka](https://qiita.com/jun_moka/)|
 |MENTA|[純也](https://menta.work/user/2101)|
