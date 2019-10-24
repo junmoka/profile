@@ -15,7 +15,7 @@
 |Shell|いろいろ|
 |Lua|ゲームスクリプト|
 |Squirrel|ゲームスクリプト|
-|JavaScript|webサービス|最低限の知識|
+|JavaScript|webサービス||
 |Node.js|Bot開発など|
 |React/Redux|webアプリ|
 
@@ -25,6 +25,7 @@
 |Unity2018|ゲーム/Editor拡張|特にリソース管理やAssetBundleに詳しい|
 |cocos2d-x|ゲーム開発||
 |Ruby on Rails|Webサービス|
+|React|Webサービス|
 |iBATIS|スマホゲームサーバーサイド|
 |Xwork|スマホゲームサーバーサイド|
 
@@ -41,6 +42,7 @@
 |AWS Lambda|
 |ESXi6.5|自宅サーバーで運用|
 |Alpine Linux|Docker コンテナ用|
+|Kali Linux|ペネトレーションテスト用|
 |Docker|開発環境管理/自宅サーバーで利用|
 |Rancher2.0|コンテナ管理|
 |Kubernetes|Rancher2.0上メイン|
