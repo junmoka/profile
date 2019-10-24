@@ -6,9 +6,7 @@
 |Twitter|[@jun_moka](https://twitter.com/jun_moka/)|
 |Qiita|[@jun_moka](https://qiita.com/jun_moka/)|
 |MENTA|[純也](https://menta.work/user/2101)|
-|質問箱|[jun_moka](https://peing.net/ja/jun_moka)|
 |Github|[junmoka](https://github.com/junmoka)|
-|Blog|[アルコール駆動開発](https://www.spiriquor.com/)|
 
 # 今までの歩んできた道のり
 [History](https://github.com/junmoka/profile/blob/master/history.md)
