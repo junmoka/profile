@@ -19,6 +19,7 @@
 
 # 活動
 - CoderDojo メンター
+- 情報セキュリティ早期警戒パートナーシップガイドラインに基づきIPAに脆弱性報告実績あり
 
 # 趣味
 - ゲーム(ボードゲームも含む)
@@ -27,6 +28,7 @@
 - お酒
 
 # 興味あるもの
-ゲーム MMO マビノギ MOBA LOL Dota2 Steam ボードゲーム
-Unity AWS VPS 自宅サーバ Dcoker Rails esxi
-C++ C# Java Haskell VBA Perl PHP Go Elixir Git
+ゲーム Steam ボードゲーム
+AWS VPS 自宅サーバ Dcoker esxi
+C++ Node.js Haskell Rust Git 脆弱性診断
+低レイヤー IoT リバースエンジニアリング チームビルディング
