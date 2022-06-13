@@ -18,6 +18,7 @@
 |JavaScript|webサービス||
 |Node.js|Bot開発など|
 |React/Redux|webアプリ|
+|Rust|セキュリティツール開発|
 
 # framework/library
 |Skill|作ったもの/やったこと|備考|
@@ -28,8 +29,10 @@
 |React|Webサービス|
 |iBATIS|スマホゲームサーバーサイド|
 |Xwork|スマホゲームサーバーサイド|
+|Laravel|Webサービス|
+|node.js|cliツール|
 
-# infra/cloud/tool
+# infra/cloud/software
 |Skill|備考|
 |-|-|
 |svn|
@@ -51,11 +54,14 @@
 |PostgreSQL|主にWebサービス|
 |Jenkins|ビルドパイプライン構築/コンテンツパイプライン構築|
 |OPTPiX MacroActor|ゲーム用画像最適化|
+|OWASP ZAP|Webアプリケーション診断|
+|Burp Suite|Webアプリケーション診断|
+|nessus、nmap、openssl|プラットフォーム診断|
+|frida、IDA Pro、Ghidra|スマホアプリ診断|
 
 # etc
 |Skill|備考|
 |-|-|
 |Haskell|勉強中/関数型の設計手法取得|
-|Rust|興味あり/C++の置換えに|
 |Elixir|興味あり/高速なWebアプリ開発に|
 |Swift|興味あり|
