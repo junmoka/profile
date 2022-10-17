@@ -12,7 +12,7 @@
 [History](https://github.com/junmoka/profile/blob/master/history.md)
 
 # スキルシート
-[skillsheat](https://github.com/junmoka/profile/blob/master/skillsheat.md)
+[skillsheet](https://github.com/junmoka/profile/blob/master/skillsheet.md)
 
 # CliftonStrengths
 [CliftonStrengths](https://github.com/junmoka/profile/blob/master/CliftonStrengths.md)
